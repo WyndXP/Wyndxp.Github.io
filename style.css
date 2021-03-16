@@ -7,4 +7,5 @@ body {
 .header {
  height: 20vw;
  width: 100vw;
+ background-color: blue;
 }
