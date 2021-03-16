@@ -4,3 +4,7 @@ body {
  padding: 0px;
  position: absolute;
 }
+.header {
+ height: 20vw;
+ width: 100vw;
+}
