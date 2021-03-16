@@ -1,13 +1,12 @@
 body {
- margin-top: 0.5vw;
- margin-left: 0.5vw;
- margin-right: 0.5vw;
  padding: 0px;
  position: absolute;
 }
 .header {
+  margin-top: 0.5vw;
+ margin-left: 0.5vw;
  height: 20vw;
- width: 100vw;
+ width: 99vw;
  background-color: blue;
 }
 h1 {
