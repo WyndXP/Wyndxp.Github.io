@@ -1,5 +1,7 @@
 body {
  margin-top: 0.5vw;
+ margin-left: 0.5vw;
+ margin-right: 0.5vw;
  padding: 0px;
  position: absolute;
 }
