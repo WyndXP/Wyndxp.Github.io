@@ -3,9 +3,9 @@ body {
  position: absolute;
 }
 .header {
- margin-top: 0.5vw;
- margin-left: 0.5vw;
- margin-right: 0.5vw;
+ margin-top: 0px;
+ margin-left: 0px;
+ width: 100vw;
  height: 10vw;
  background-color: blue;
 }
