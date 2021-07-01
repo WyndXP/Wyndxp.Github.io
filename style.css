@@ -1,7 +1,7 @@
 body {
 	margin: 0px;
 	padding: 0px;
-	background-color: black;
+	background-color: #521f4b;
 }
 .welcome {
 	margin: 0px;
@@ -10,7 +10,7 @@ body {
 .wyndtext {
 	margin: 0px;
 	padding: 5px;
-	color: #521f4b;
+	color: 	#ff00d0;
 }
 .wyndlink {
 	text-decoration: none;
