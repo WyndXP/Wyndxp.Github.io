@@ -1,0 +1,9 @@
+<! DOCTYPE HTML >
+<html>
+  <body>
+    <a href="https://www.youtube.com/channel/UC92ebSqyHWcv0rv37VWV3QA">If not redirected, click here</a>
+    <script>
+      window.location.href = "https://www.youtube.com/channel/UC92ebSqyHWcv0rv37VWV3QA"
+    </script>
+  </body>
+</html>
